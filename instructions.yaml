@@ -1,0 +1,10 @@
+train: /kaggle/input/dataset-with-all/preprocessed_Output/train/images
+val: /kaggle/input/dataset-with-all/preprocessed_Output/val/images
+nc: 6
+names:
+  0: Intraventricular 
+  1: Intraparenchymal 
+  2: Subarachnoid 
+  3: Chronic 
+  4: Subdural 
+  5: Epidural 
