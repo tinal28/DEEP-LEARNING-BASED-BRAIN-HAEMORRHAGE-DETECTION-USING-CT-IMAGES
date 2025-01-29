@@ -69,7 +69,9 @@ This project demonstrates the potential of YOLOv8 in medical imaging, offering r
 
 ## Contributors
 - **Tinal Abeygunathilaka**
+- https://github.com/tinal28
 - **Himanshi De Silva**
+- https://github.com/HimanshiDeSilva
 
 ## References
 1. Chilamkurthy S et al. (2018). Deep learning for detecting critical findings in head CT scans. *The Lancet.*
