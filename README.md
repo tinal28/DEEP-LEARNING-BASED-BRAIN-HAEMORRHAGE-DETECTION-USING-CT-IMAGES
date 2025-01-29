@@ -49,6 +49,12 @@ We used the **CQ500 dataset** from Qure.ai, which includes:
 | Recall    | High  |
 | F1-Score  | Good  |
 
+![image](https://github.com/user-attachments/assets/99a5080b-8d4e-4e86-8feb-1c8c74506186)
+Normalized confusion matrix
+
+![image](https://github.com/user-attachments/assets/5abffc3e-bb95-40f9-9109-8f41bfa15d4d)
+training loss, validation loss, precision, recall.
+
 ### Visual Comparisons
 - True Labels vs. Predicted Results indicate strong detection capability.
 
